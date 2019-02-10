@@ -1,2 +1,2 @@
 var playlist = new Object ({keys '0'});
-function updatePlaylist(playlist, artist name )
+function updatePlaylist(playlist, artistName, songTitle)
